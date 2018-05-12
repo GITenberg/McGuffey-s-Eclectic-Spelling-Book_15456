@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '44779'
     url: http://www.gutenberg.org/2009/agents/44779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15456#McGuffey-s-Eclectic-Spelling-Book
 gutenberg_issued: '2005-03-24'
 gutenberg_type: Text
 identifiers:
